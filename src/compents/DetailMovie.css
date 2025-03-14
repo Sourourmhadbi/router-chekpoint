@@ -1,0 +1,22 @@
+.movie-detail {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .movie-detail iframe {
+    margin: 20px 0;
+  }
+  
+  .movie-detail button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .movie-detail button:hover {
+    background-color: #218838;
+  }
+  
