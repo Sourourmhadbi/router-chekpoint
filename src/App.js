@@ -6,6 +6,8 @@ import "./App.css";
 import url from './compents/assets/img.jpg';
 import path from './compents/assets/image.jpg';
 import image from './compents/assets/image1.jpg'
+import { Router } from "express";
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   const [movies, setMovies] = useState([
